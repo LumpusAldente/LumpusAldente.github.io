@@ -90,8 +90,8 @@ defaultContentLanguage: en
 # localhost should automatically work.
 #
 # Example: https://status.example.com/
-url: "http://LumpusAldente.github.io"
-baseurl: ""
+#url: "http://LumpusAldente.github.io"
+baseurl: "https://wizardly-hamilton-12e1df.netlify.com/"
 
 ############################################################
 # +------------------------------------------------------+ #
