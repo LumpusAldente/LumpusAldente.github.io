@@ -1,3 +1,3 @@
-This is the default cState status page website directory/folder.
 
-https://github.com/cstate/example
+
+https://wizardly-hamilton-12e1df.netlify.com/
