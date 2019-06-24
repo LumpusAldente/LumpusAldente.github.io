@@ -92,6 +92,8 @@ defaultContentLanguage: en
 # Example: https://status.example.com/
 url: "http://LumpusAldente.github.io"
 
+
+
 ############################################################
 # +------------------------------------------------------+ #
 # |                   Preferences                        | #
@@ -218,7 +220,7 @@ params:
   # the value to the default:
   #
   # Default: UA-00000000-1
-  googleAnalytics: UA-00000000-1
+  googleAnalytics: UA-142634136-1
 
 # These options affect the core of cState.
 # Please do not change them if you do not
